@@ -1,0 +1,42 @@
+{
+    "_id": 624359541,
+    "link": "https://ethanmarcotte.com/wrote/let-a-website-be-a-worry-stone/",
+    "title": "Let a website be a worry stone. — ethanmarcotte.com",
+    "excerpt": "One turn deserves another.",
+    "note": "",
+    "type": "article",
+    "user": {
+        "$ref": "users",
+        "$id": 511806
+    },
+    "cover": "https://ethanmarcotte.com/img/ethan-thumb-social.jpg",
+    "media": [
+        {
+            "link": "https://ethanmarcotte.com/img/ethan-thumb-social.jpg",
+            "type": "image"
+        }
+    ],
+    "tags": [],
+    "important": false,
+    "reminder": {
+        "date": null
+    },
+    "removed": false,
+    "created": "2023-08-09T19:40:13.889Z",
+    "lastUpdate": "2023-08-09T19:40:13.889Z",
+    "collection": {
+        "$ref": "collections",
+        "$id": 17692473,
+        "oid": 17692473
+    },
+    "highlights": [],
+    "domain": "ethanmarcotte.com",
+    "creatorRef": {
+        "_id": 511806,
+        "name": "ryan-feigenbaum",
+        "avatar": "",
+        "email": ""
+    },
+    "sort": 624359541,
+    "collectionId": 17692473
+}
